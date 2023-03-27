@@ -512,7 +512,7 @@ theme: /
             "Назад" -> /newNode_1
 
     state: newNode_76
-           a: https://pombur.github.io/vodomerka/index.html
+         a: http://pombur.github.io/vodomerka/
         buttons:
             "Назад" -> /newNode_72
 
