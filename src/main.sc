@@ -512,8 +512,7 @@ theme: /
             "Назад" -> /newNode_1
 
     state: newNode_76
-        video: https://youtu.be/GLBjRnJwUXQ || name = "GLBjRnJwUXQ"
-        a: http://g9991967.beget.tech/
+        a: https://pombur.github.io/vodomerka/index.html
         buttons:
             "Назад" -> /newNode_72
 
