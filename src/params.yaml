@@ -1,0 +1,61 @@
+{
+    "catchAll": {
+        "phrases": [
+            "Ошибка при запросе. Попробуйте начать с начала   /start"
+        ]
+    },
+    "speechNotRecognized": {
+        "phrases": [
+            "Вас плохо слышно, повторите, пожалуйста!"
+        ]
+    },
+    "fulfillment": {
+        "settings": {
+            "default": {
+                "url": ""
+            },
+            "channels": []
+        },
+        "actions": [
+            {
+                "state": "/newNode_79",
+                "action": "123",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_74",
+                "action": "бан"
+            },
+            {
+                "state": "/newNode_2",
+                "action": "Заказ сетки",
+                "color": "#fed766"
+            },
+            {
+                "state": "/newNode_4",
+                "action": "Оборудование",
+                "color": "#fed766"
+            },
+            {
+                "state": "/newNode_12",
+                "action": "Добавление производителя",
+                "color": "#9fd356"
+            },
+            {
+                "state": "/newNode_66",
+                "action": "add",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_92",
+                "action": "find",
+                "color": "#ef767a"
+            }
+        ]
+    },
+    "tariffLimit": {
+        "phrases": [
+            "У бота закончился лимит пользователей.  @MyDrillin2gbot"
+        ]
+    }
+}
