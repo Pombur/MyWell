@@ -512,9 +512,7 @@ theme: /
             "Назад" -> /newNode_1
 
     state: newNode_76
-        a:  ОсколБур
-            Андрей
-            +79040809707
+        a:  https://pombur.github.io/vodomerka/
         buttons:
             "Назад" -> /newNode_72
 
