@@ -512,7 +512,8 @@ theme: /
             "Назад" -> /newNode_1
 
     state: newNode_76
-        a: https://pombur.github.io/vodomerka/index.html
+                buttons:
+            {text: "Договор на бурение", url: "https://pombur.github.io/vodomerka/index.html"}
         buttons:
             "Назад" -> /newNode_72
 
